@@ -1,0 +1,45 @@
+$main_color:#192841;
+$secondary_color: #db0a3a;
+
+.section__skillset {
+    min-height: 100vh;
+    background-color: $main_color;
+    position: relative;
+    .material-icons {
+        color: #fff !important;
+    }
+    .web-tech-icon {
+        svg {
+            width: 250px;
+            height: 250px;
+            margin: 1rem auto;
+            padding: 1rem;
+            fill: #fff;
+            border: 3px solid $secondary_color;
+            border-radius: 30px;
+            text-align: center;
+            display: inline-block;
+            path {
+                fill: #fff;
+                height: 150px;
+                width: 100px;
+                text-align: center;
+                margin: 0 auto;
+                display: block;
+            }
+        }
+        .hover-title-skillset {
+            background: $secondary_color;
+            height: 250px;
+            width: 250px;
+            margin: 1rem auto;
+            padding: 1rem;
+            fill: #fff;
+            border: 3px solid $secondary_color;
+            border-radius: 30px;
+            text-align: center;
+            background: linear-gradient(90deg, $main_color, $secondary_color);
+        }
+
+    }
+}

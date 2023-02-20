@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$main_color: #192841;
+$secondary_color: #db0a3a;
+$white: #fff;
+
+.main-color{
+    color: $main_color
+}
+.secondary-color {
+    color: $secondary_color
+}
+
+@font-face {
+    font-family: 'Raleway Regular';
+    src: local('Raleway Regular'), url(./components/assets/fonts/Raleway/static/Raleway-Regular.ttf) format('truetype');
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Raleway Regular", serif;
+}
+
+body {
+    color: #fff;
+    h1{
+        font-size: 50px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    h3{
+        font-size: 25px;
+    }
+}
+
+img.picture {
+    max-width: 100%;
+}
