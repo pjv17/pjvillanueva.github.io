@@ -20,9 +20,9 @@ const Main =() => {
                             <Link to={"https://www.instagram.com/pjvillanueva17"} target="_blank"><Instagram className="icon"/>  </Link>                   
                         </div>
 
-                        <div className="buttons my-5">
-                            <a href={pjresume} className="btn cv" download="Peter-John-Villanueva-Resume2023">Download My CV</a>
-                            <a href="https://docs.google.com/document/d/1rduz1qGeDGl4sadzte3ZKdeS6hXDM21SCV0d9581gy4/edit?usp=sharing" className="btn portfolio ml-5" target="_blank" rel="noopener noreferrer">Download My Portfolio</a>
+                        <div className="buttons my-5 py-5">
+                            <a href={pjresume} className="btn cv lg:inline-block mb-5 block text-center" download="Peter-John-Villanueva-Resume2023">Download My CV</a>
+                            <a href="https://docs.google.com/document/d/1rduz1qGeDGl4sadzte3ZKdeS6hXDM21SCV0d9581gy4/edit?usp=sharing" className="btn portfolio lg:ml-5 lg:inline-block block text-center" target="_blank" rel="noopener noreferrer">Download My Portfolio</a>
                         </div>
                     </div>
 

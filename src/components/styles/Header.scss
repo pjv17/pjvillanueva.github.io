@@ -29,6 +29,11 @@ $main_color: #192841;
     #site-menu {
       background: $main_color;
   }
+  .pj-logo{
+    background: #fff;
+    width: 50px;
+    border-radius: 10%;
+  }
 }
 .hamburger {
   cursor: pointer;

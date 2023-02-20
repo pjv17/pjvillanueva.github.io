@@ -1,7 +1,7 @@
 {
   "name": "pjvillanueva.github.io",
   "homepage": "https://pjv17.github.io/pjvillanueva.github.io/",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",

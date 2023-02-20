@@ -45,7 +45,7 @@ $white: #fff;
                 display: inline-block !important;
                 width: 100% !important;
                 text-align: center;
-                clip-path: circle(40% at 50% 50%);
+                clip-path: circle(100% at 50% 50%);
             }
             img {
                 background: linear-gradient(45deg, #d82e08, #3e07bd);
@@ -91,7 +91,6 @@ $white: #fff;
 .buttons {
     .btn {
         padding: 15px 40px;
-        margin-top: 3rem;
         background: linear-gradient(45deg, $main_color, $secondary_color);
         color: $white;
         border: 1px solid $white;
@@ -160,6 +159,7 @@ $white: #fff;
         text-align: center;
         flex-direction: column-reverse;
         justify-content: center;
+        margin-top: 6rem;
     }
 
     .main__img img {

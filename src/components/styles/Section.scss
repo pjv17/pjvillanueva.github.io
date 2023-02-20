@@ -42,4 +42,10 @@ $secondary_color: #db0a3a;
         }
 
     }
+    .section__content_about_me {
+        background: $main_color;
+        padding: 2rem;
+        margin: 2rem;
+        box-shadow: 1px 1px 20px $secondary_color;
+    }
 }
