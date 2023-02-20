@@ -2,18 +2,17 @@ import { GitHub, Instagram, LinkedIn } from "@material-ui/icons";
 import React from "react";
 import './styles/Main.scss';
 import pjpic from './assets/image/PJ Villanueva - MTA.jpg';
-import pjresume from './assets/resume/Peter+John+Villanueva Resume 2023.pdf';
+import pjresume from './assets/resume/Peter John Villanueva Resume 2023.pdf';
 import { Link } from "react-router-dom";
-
 
 const Main =() => {
     return (        
-        <div className="main">      
+        <div className="main flex 2xl:h-screen">      
             <div className="main__container container mx-auto pt-5 z-10">
                 <div className="main__content">
                     <div className="text mx-auto">
                         <p>Hello Everyone!</p>
-                        <h1>I am <span className="secondary-color">Peter</span></h1>
+                        <h1>I am <span className="secondary-color name-header">Peter</span></h1>
                         <p className="secondary-color">Full Stack Developer</p>
                         <div className="icons">
                             <Link to={"https://www.linkedin.com/in/pj-villanueva/"} target="_blank"><LinkedIn className="icon" /></Link>
@@ -22,7 +21,8 @@ const Main =() => {
                         </div>
 
                         <div className="buttons my-5">
-                            <a href={pjresume} className="btn" download="Peter-John-Villanueva-Resume2023">Download My CV</a>
+                            <a href={pjresume} className="btn cv" download="Peter-John-Villanueva-Resume2023">Download My CV</a>
+                            <a href="https://docs.google.com/document/d/1rduz1qGeDGl4sadzte3ZKdeS6hXDM21SCV0d9581gy4/edit?usp=sharing" className="btn portfolio ml-5" target="_blank" rel="noopener noreferrer">Download My Portfolio</a>
                         </div>
                     </div>
 
