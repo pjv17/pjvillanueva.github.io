@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pjvillanueva.github.io/static/css/main.27026331.css",
+    "main.js": "/pjvillanueva.github.io/static/js/main.9549469a.js",
+    "static/media/Peter+John+Villanueva Resume 2023.pdf": "/pjvillanueva.github.io/static/media/Peter+John+Villanueva Resume 2023.485797fbfa0ac1cfb374.pdf",
+    "static/media/Raleway-Regular.ttf": "/pjvillanueva.github.io/static/media/Raleway-Regular.3927fa2a37e6f7f4c7c0.ttf",
+    "static/media/PJ Villanueva - MTA.jpg": "/pjvillanueva.github.io/static/media/PJ Villanueva - MTA.2c91fa8b0985e8b5cce9.jpg",
+    "static/media/NODEJS.svg": "/pjvillanueva.github.io/static/media/NODEJS.f216489c056a8567aa441443e49ec697.svg",
+    "static/media/SASS.svg": "/pjvillanueva.github.io/static/media/SASS.5e501a2f9a1b35adab1f82616e75af97.svg",
+    "static/media/MYSQL.svg": "/pjvillanueva.github.io/static/media/MYSQL.1957fab3610b78c02010dab864c2d6b8.svg",
+    "static/media/JQUERYICO.svg": "/pjvillanueva.github.io/static/media/JQUERYICO.19eaa6a860fc83e0fdd7adcbc051e702.svg",
+    "static/media/REACT.svg": "/pjvillanueva.github.io/static/media/REACT.6e05a812f5f26f9e9f2fd3e59c8ef7bd.svg",
+    "static/media/WordPress.svg": "/pjvillanueva.github.io/static/media/WordPress.f23b76f778627e8641d2f6c6d016ce3b.svg",
+    "static/media/TAILWINDICO.svg": "/pjvillanueva.github.io/static/media/TAILWINDICO.aea5571008f90e819d00e6a7387dabcd.svg",
+    "static/media/PHP.svg": "/pjvillanueva.github.io/static/media/PHP.1eec01fa3a9a9e5ce1fc99eaaaf5800a.svg",
+    "static/media/Javascript.svg": "/pjvillanueva.github.io/static/media/Javascript.be00933e22b78507f5cc11b4b215992a.svg",
+    "static/media/BOOTSTRAP.svg": "/pjvillanueva.github.io/static/media/BOOTSTRAP.a9ad18750910181cf5b9428ef5d24beb.svg",
+    "index.html": "/pjvillanueva.github.io/index.html",
+    "static/media/HTML5.svg": "/pjvillanueva.github.io/static/media/HTML5.a7eae5b37a497601bad02b04922cbeda.svg",
+    "static/media/CSS3.svg": "/pjvillanueva.github.io/static/media/CSS3.0950c10ae2d893c5140bfc59c93a4359.svg",
+    "main.27026331.css.map": "/pjvillanueva.github.io/static/css/main.27026331.css.map",
+    "main.9549469a.js.map": "/pjvillanueva.github.io/static/js/main.9549469a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27026331.css",
+    "static/js/main.9549469a.js"
+  ]
+}
