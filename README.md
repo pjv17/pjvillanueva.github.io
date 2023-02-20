@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I created this project to practice my skills in React - https://pjv17.github.io/pjvillanueva.github.io/
 
 ## Available Scripts
 
