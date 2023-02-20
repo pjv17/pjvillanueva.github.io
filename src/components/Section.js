@@ -29,7 +29,7 @@ const Section = () => {
                 <div className="section__content py-10 text-center px-4 sm:px-6">           
                 <Particle className="z-5" />      
                     <h2 className="mb-10 z-10 relative">Professional <span className="secondary-color">Skillset</span></h2>
-                    <div className="grid grid-cols-4 gap-4">
+                    <div className="grid grid-cols-1 xl:grid-cols-3 xl:gap-3 lg:grid-cols-3 lg:gap-3 md:grid-cols-2 md:gap-2 sm:grid-cols-1 sm:gap-1">
                         <div className="web-tech-icon relative" title="PHP">
                            <PHPIcon />              
                            <div className="hover-title-skillset opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-3xl text-white font-semibold">PHP</div>                              

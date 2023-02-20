@@ -3,7 +3,6 @@ $secondary_color: #db0a3a;
 $white: #fff;
 
 .main {
-    min-height: 100vh;
     background-color: $main_color;
     position: relative;
     z-index: 20;
@@ -37,9 +36,18 @@ $white: #fff;
             align-items: center;
             justify-content: flex-start;
             flex: 1 1;
+            @media (max-width: 500px) {
+                display: inline-block !important;
+                width: 100% !important;
+                text-align: center;
+                clip-path: circle(40% at 50% 50%);
+            }
             img {
                 background: linear-gradient(45deg, #d82e08, #3e07bd);
                 width: 75%;
+                @media (max-width: 500px) {
+                    margin: 0 auto;
+                }
             }
         }
     }
@@ -78,8 +86,7 @@ $white: #fff;
 .buttons {
     .btn {
         padding: 15px 40px;
-        margin-top: 2rem;
-        margin-right: 1rem;
+        margin-top: 3rem;
         background: linear-gradient(45deg, $main_color, $secondary_color);
         color: $white;
         border: 1px solid $white;
@@ -155,11 +162,8 @@ $white: #fff;
 
     .icons{ 
         margin-left: 1.5rem;
-    .icon {
-        color: firebrick;
-        
+        display: inline-block;
     }
-}
 }
 
 
