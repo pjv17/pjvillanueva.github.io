@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pjvillanueva.github.io/static/css/main.27026331.css",
-    "main.js": "/pjvillanueva.github.io/static/js/main.7a1ed3f1.js",
+    "main.js": "/pjvillanueva.github.io/static/js/main.a07aa737.js",
     "static/media/Peter+John+Villanueva Resume 2023.pdf": "/pjvillanueva.github.io/static/media/Peter+John+Villanueva Resume 2023.485797fbfa0ac1cfb374.pdf",
     "static/media/Raleway-Regular.ttf": "/pjvillanueva.github.io/static/media/Raleway-Regular.3927fa2a37e6f7f4c7c0.ttf",
     "static/media/PJ Villanueva - MTA.jpg": "/pjvillanueva.github.io/static/media/PJ Villanueva - MTA.2c91fa8b0985e8b5cce9.jpg",
@@ -19,10 +19,10 @@
     "static/media/HTML5.svg": "/pjvillanueva.github.io/static/media/HTML5.a7eae5b37a497601bad02b04922cbeda.svg",
     "static/media/CSS3.svg": "/pjvillanueva.github.io/static/media/CSS3.0950c10ae2d893c5140bfc59c93a4359.svg",
     "main.27026331.css.map": "/pjvillanueva.github.io/static/css/main.27026331.css.map",
-    "main.7a1ed3f1.js.map": "/pjvillanueva.github.io/static/js/main.7a1ed3f1.js.map"
+    "main.a07aa737.js.map": "/pjvillanueva.github.io/static/js/main.a07aa737.js.map"
   },
   "entrypoints": [
     "static/css/main.27026331.css",
-    "static/js/main.7a1ed3f1.js"
+    "static/js/main.a07aa737.js"
   ]
 }
