@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/pjvillanueva.github.io/static/css/main.f0e1499d.css",
-    "main.js": "/pjvillanueva.github.io/static/js/main.ea065401.js",
+    "main.css": "/pjvillanueva.github.io/static/css/main.673b0cef.css",
+    "main.js": "/pjvillanueva.github.io/static/js/main.4ac1a58a.js",
     "static/media/Peter John Villanueva Resume 2023.pdf": "/pjvillanueva.github.io/static/media/Peter John Villanueva Resume 2023.ae9fe5615a9c5d5ab590.pdf",
+    "static/media/PJ Logo.png": "/pjvillanueva.github.io/static/media/PJ Logo.47209f22099a199be3dd.png",
     "static/media/Raleway-Regular.ttf": "/pjvillanueva.github.io/static/media/Raleway-Regular.3927fa2a37e6f7f4c7c0.ttf",
     "static/media/PJ Villanueva - MTA.jpg": "/pjvillanueva.github.io/static/media/PJ Villanueva - MTA.2c91fa8b0985e8b5cce9.jpg",
     "static/media/NODEJS.svg": "/pjvillanueva.github.io/static/media/NODEJS.f216489c056a8567aa441443e49ec697.svg",
@@ -18,11 +19,11 @@
     "index.html": "/pjvillanueva.github.io/index.html",
     "static/media/HTML5.svg": "/pjvillanueva.github.io/static/media/HTML5.a7eae5b37a497601bad02b04922cbeda.svg",
     "static/media/CSS3.svg": "/pjvillanueva.github.io/static/media/CSS3.0950c10ae2d893c5140bfc59c93a4359.svg",
-    "main.f0e1499d.css.map": "/pjvillanueva.github.io/static/css/main.f0e1499d.css.map",
-    "main.ea065401.js.map": "/pjvillanueva.github.io/static/js/main.ea065401.js.map"
+    "main.673b0cef.css.map": "/pjvillanueva.github.io/static/css/main.673b0cef.css.map",
+    "main.4ac1a58a.js.map": "/pjvillanueva.github.io/static/js/main.4ac1a58a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0e1499d.css",
-    "static/js/main.ea065401.js"
+    "static/css/main.673b0cef.css",
+    "static/js/main.4ac1a58a.js"
   ]
 }
